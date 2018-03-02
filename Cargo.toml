@@ -1,0 +1,8 @@
+[package]
+name = "jabir"
+version = "0.1.0"
+authors = ["Muhammad Mominul Huque <mominul2082@gmail.com>"]
+license = "MIT"
+description = "Chemical elements analyser."
+
+[dependencies]
