@@ -6,3 +6,4 @@ license = "MIT"
 description = "Chemical elements analyser."
 
 [dependencies]
+structopt = "0.2"
